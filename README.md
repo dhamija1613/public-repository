@@ -1,4 +1,4 @@
-# public-repository:)_
+# public-repository :)_
 
 Website name - Heavenly Hampers
 Website slogan - Hampers Full of Heavenly Delights
